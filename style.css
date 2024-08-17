@@ -1,0 +1,24 @@
+
+body{
+  background-image: url("image2.webp");
+
+  background-size: cover;
+}
+nav{
+    margin-left: 60%;
+    margin-top: 20px;
+ }
+nav a{
+  text-decoration: none;   
+}
+li{
+    display: inline;
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+a:hover{
+  box-shadow:  0 0 8px 5px white;
+  
+}
