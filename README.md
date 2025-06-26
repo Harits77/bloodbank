@@ -35,14 +35,4 @@ This system aims to simplify the process of connecting blood donors with those i
 ```bash
 git clone https://github.com/Harits77/bloodbank.git  
 
-bloodbank/
-├── index.php
-├── login.php
-├── register.php
-├── admin/
-│   └── dashboard.php
-├── assets/
-│   └── style.css
-└── config/
-    └── db.php
 
